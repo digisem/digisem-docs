@@ -13,7 +13,7 @@ Digisem can be used to integrate moodle with library systems in order to digital
 <li>Alice from the library scans and publishes books as PDFs. She needs the library ID of each book to find it and the pages to scan. Unfortunately, Bob does not know the library IDs of the books he owns himself. </li>
 </ol>
 
-<p>The digisem plugin tries to cover all these expectations. Read in the section about Process Design below how it works in principle. The sections on the next pages describe how to <a href="https://github.com/digisem/digisem-docs/blob/master/Integration.md">integrate the plugin</a> and show screenshots. </p>
+<p>The digisem plugin tries to cover all these expectations. Read in the section about Process Design below how it works in principle. The sections on the next pages describe how to <a href="https://github.com/digisem/digisem-docs/blob/master/Integration.md">integrate the plugin</a> and show <a href="https://github.com/digisem/digisem-docs/blob/master/Screenshots.md">screenshots</a>. </p>
 
 <p><strong>Process Design</strong></p>
 <p>So how does digisem work? </p>
