@@ -14,3 +14,5 @@ The Digisem plugin allows to order and publish digital copies from library items
 <p>The library publishing system must thus be configured to place the scanned items into the FTP directory. Also the library publishing system must assert that the filenames match the digisem IDs (provided in each order email). 
 </p></li>
 </ol>
+<p></p>
+<p><a href="https://github.com/digisem/digisem-docs/blob/master/Screenshots.md">See screenshots of the Digisem plugin on the next page</a></p>
