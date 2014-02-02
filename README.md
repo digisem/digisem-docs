@@ -6,7 +6,7 @@ Digisem Docs
 Digisem is a moodle plug-in that allows course owners to use their moodle courses as digital reserve shelves. (A digital reserve shelf is a collection of digitalized library book chapters, articles, ...)  Digisem integrates moodle with the library systems needed to digitalize and publish library items such as books and articles. 
 </p>
 
-<p>Main features:</p>
+<p><strong>Main features:</strong></p>
 <ul>
  <li>Digisem provides an "easy to use" solution to attach digital copies of library items to a course room.</li>
  <li>Course owners can create "digisems" as moodle activities. </li>
