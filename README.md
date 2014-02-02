@@ -1,24 +1,23 @@
-Digisem Introduction
+What Is Digisem?
 ============
 
 <p>
-The Digisem plug-in enables moodle as digital course reserve collection. The plug-in connects moodle with library systems in order to digitalize and publish library items such as books, articles and so on. From ordering a specific item, publishing it in the moodle course and displaying it to users, it involves quite a number of steps and thus challenges.
+Digisem is a moodle plug-in that allows course owners to use their moodle courses as digital reserve shelves. (A digital reserve shelf is a collection of digitalized library book chapters, articles, ...)  Digisem integrates moodle with the library systems needed to digitalize and publish library items such as books and articles. 
 </p>
 
 <p>Main features:</p>
 <ul>
- <li>Provides a simple to use solution for attaching digital copies of library items to a course room</li>
- <li>Plug-in appears as "Resource" and thus can be added to a course room as all other resources</li>
- <li>Connects moodle with the OPAC for literature searching</li>
- <li>Provides its own ordering mechanism</li>
- <li>Orders are done using plain e-mail for machine-to-machine communication</li>
- <li>The resulting file of an order is attached to the right course room automatically</li>
- <li>All ordered files are stored in the moodle file system making the plug-in transparent</li>
+ <li>Digisem provides an "easy to use" solution to attach digital copies of library items to a course room.</li>
+ <li>Course owners can create "digisems" as moodle activities. </li>
+ <li>The plug-in integrates moodle with the OPAC for literature retrieval. </li>
+ <li>Orders are sent to the library using a SUBITO related email format for machine-to-machine communication. </li>
+ <li>The digitalized copy of a book chapter or article is integrated into the course room automatically. </li>
+ <li>All ordered files are stored in the moodle file system so that users can easily provide them in other course rooms as well. </li>
 </ul>
 
-<p>The following story tries to sum up the most important steps and challenges:</p>
+<p>From ordering a specific item, publishing it in the moodle course and displaying it to the users, it involves quite a number of steps and thus challenges. The following story tries to sum up the most important steps and challenges:</p>
 
-<h2>Background Story</h2>
+<h2>Why Did We Build It?</h2>
 <ol>
 <li>Bob teaches at the local university. He wants to set up a course room in moodle for his lecture on economics. He wants to provide the mandatory book chapters as digital copies in the course room. Also, he wants to assign them to the correct weeks so that his students know what to read. </li>
 <li>Ideally, Bob thinks, after he ordered the copies and assigned them to the correct weeks or slots, he should not have anything further to do. This means, the library gets informed about his request and executes it. When the digital copy is ready, it should be automatically published in the course. </li>
@@ -29,7 +28,7 @@ The Digisem plug-in enables moodle as digital course reserve collection. The plu
 <p>The digisem plugin tries to cover all these expectations. Read in the section about Process Design below on how it works in principle. The sections on the next pages describe how to <a href="https://github.com/digisem/digisem-docs/blob/master/Integration.md">integrate the plugin</a> and show <a href="https://github.com/digisem/digisem-docs/blob/master/Screenshots.md">screenshots</a>. </p>
 
 
-<h2>Process Design</h2>
+<h2>How Is It Designed?</h2>
 
 <h3>So how does digisem work?</h3>
 <img src="imgs/digisem-process.png" width=800 align="top" />
